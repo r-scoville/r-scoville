@@ -1,5 +1,4 @@
-## Hi, I'm Rose. 👋🏽
-
+## Hi, I'm Rose. 👋🏼
 ### Background
 - 👩🏻‍💻 Software development graduate (IT Programming, NSCC)
 - 🤖 Incoming student for the AI advanced program (IT Programming for Artificial Intelligence, NSCC)
