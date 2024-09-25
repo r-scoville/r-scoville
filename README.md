@@ -11,5 +11,5 @@ I'm currently on the lookout for an upcoming co-op work placement, specifically 
 - 🌱 Sustainability and clean technology
 
 ### More Info / Connect
-- 📄 View my [résumé](https://drive.google.com/file/d/1byzCgLoVJk-J0RAoPd9EiD484ABTjsaB/view?usp=drive_link)
+- 📄 View my [résumé](https://drive.google.com/file/d/1Rxvu6U8NPcQpL-HU0hoM2CoJCFPPYUmM/view?usp=sharing)
 - 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/r-scoville/)
