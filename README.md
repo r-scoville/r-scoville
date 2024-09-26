@@ -6,7 +6,7 @@ Welcome to my GitHub space.
 ### Background
 - 👩🏻‍💻 Software development graduate (IT Programming, NSCC)
 - 🤖 Incoming student for the AI advanced program (IT Programming for Artificial Intelligence, NSCC)
-- 🔍 Product designer and UX researcher with over three years of experience
+- ✍🏼 Product designer and UX researcher with over three years of experience
 
 <br />
 
