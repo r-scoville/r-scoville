@@ -1,4 +1,4 @@
-## Hello! I'm Rose, a software developer, product designer, and student.
+# Hello! I'm Rose, a software developer, product designer, and student.
 
 <br />
 
