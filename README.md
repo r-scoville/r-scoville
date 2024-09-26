@@ -1,5 +1,4 @@
 ## Hello! I'm Rose, a software developer, product designer, and student.
-Welcome to my GitHub space.  
 
 <br />
 
