@@ -11,7 +11,7 @@
 <br />
 
 ### Updates
-I'm currently on the lookout for an upcoming co-op work placement, particularly in the following sectors:
+I'm currently on the lookout for an upcoming work placement (internship/co-op/etc.), particularly in the following sectors:
 - 🌊 Ocean technology
 - 🔍 Research
 - 🐟 Conservation
