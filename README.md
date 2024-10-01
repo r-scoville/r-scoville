@@ -8,7 +8,7 @@
 # Updates
 Open to opportunities for upcoming student work placements, particularly with one of the following sectors/technologies:
 - 🌊 Ocean technology and research
-- 🔍 AI and data analytics
+- 🔍 Data and analytics
 - 🌱 Conservation, sustainability, clean technology
 - 💻 Python, Java, JavaScript
 
