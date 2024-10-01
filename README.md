@@ -1,24 +1,20 @@
-# Hello! 
-# I'm Rose, a software developer, product designer, and student.
+# About
+### Software developer (junior)
+### Product designer and UX researcher (intermediate)
+### Student (advanced diploma, Programming for Artificial Intelligence, NSCC)
 
 <br />
 
-### Background
-- 👩🏻‍💻 Software development graduate (IT Programming, NSCC)
-- 🤖 Incoming student for the AI advanced program (IT Programming for Artificial Intelligence, NSCC)
-- ✍🏼 Product designer and UX researcher with over three years of experience
+# Updates
+Open to opportunities for upcoming student work placements, particularly with one of the following sectors/technologies:
+- 🌊 Ocean technology and research
+- 🔍 AI and data analytics
+- 🌱 Conservation, sustainability, clean technology
+- 💻 Python, Java, JavaScript
 
 <br />
 
-### Updates
-I'm currently on the lookout for an upcoming work placement (internship/co-op/etc.), particularly in the following sectors:
-- 🌊 Ocean technology
-- 🔍 Research
-- 🐟 Conservation
-- 🌱 Sustainability and clean technology
-
-<br />
-
-### More Info / Connect
+# More Info / Connect
 - 📄 View my [résumé](https://drive.google.com/file/d/1Rxvu6U8NPcQpL-HU0hoM2CoJCFPPYUmM/view?usp=sharing)
 - 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/r-scoville/)
+- 👩🏻‍💻 Explore my [UX case studies](https://rosescoville.com)
