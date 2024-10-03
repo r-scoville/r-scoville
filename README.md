@@ -1,7 +1,6 @@
 # About
-### Software developer (junior)
-### Product designer and UX researcher (intermediate)
-### Student (advanced diploma, Programming for Artificial Intelligence, NSCC)
+### Software developer (IT Programming graduate, Data & Analytics certified)
+### Product designer and UX researcher (3+ years experience)
 
 <br />
 
