@@ -5,7 +5,7 @@
 <br />
 
 # Updates
-Open to opportunities for student and graduate work placements, especially with one of the following sectors/technologies:
+Open to opportunities for student and graduate work placements. I'm particularly keen on:
 - 🌊 Ocean technology and research
 - 🔍 Data and analytics
 - 🌱 Conservation, sustainability, clean technology
