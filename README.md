@@ -10,7 +10,7 @@ I'm currently working toward my advanced diploma in AI Programming, with a parti
 - 🌊 Ocean technology, research, and monitoring
 - 🔍 Data and analytics
 - 🌱 Sustainability and clean technology
-- 💻 Python, Java, JavaScript
+- 💻 Python, R, Java, JavaScript
 
 <br />
 
