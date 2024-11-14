@@ -1,6 +1,7 @@
 # About
-### - Software developer, IT Programming graduate, Data & Analytics certified (Cognizant)
-### - Product designer and UX researcher (3+ years experience)
+- Software development graduate (IT Programming, NSCC)
+- Data & Analytics certified (Cognizant)
+- Product designer and UX researcher (3+ years experience)
 
 <br />
 
