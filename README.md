@@ -4,11 +4,10 @@
 
 <br />
 
-# Updates
-Open to opportunities for student and graduate work placements. I'm particularly keen on:
+# Particularly interested in:
 - 🌊 Ocean technology and research
 - 🔍 Data and analytics
-- 🌱 Conservation, sustainability, clean technology
+- 🌱 Sustainability and clean technology
 - 💻 Python, Java, JavaScript
 
 <br />
