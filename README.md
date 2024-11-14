@@ -1,11 +1,12 @@
 # About
-### Software developer (IT Programming graduate, Data & Analytics certified)
-### Product designer and UX researcher (3+ years experience)
+### - Software developer, IT Programming graduate, Data & Analytics certified (Cognizant)
+### - Product designer and UX researcher (3+ years experience)
 
 <br />
 
-# Particularly interested in:
-- 🌊 Ocean technology and research
+# Updates
+I'm currently working toward my advanced diploma in AI Programming, with a particular interest in:
+- 🌊 Ocean technology, research, and monitoring
 - 🔍 Data and analytics
 - 🌱 Sustainability and clean technology
 - 💻 Python, Java, JavaScript
