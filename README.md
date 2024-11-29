@@ -1,6 +1,6 @@
 # About
 - Software development graduate (IT Programming, NSCC)
-- Data Analytics with Python certified (Cognizant)
+- Data Analytics with Python certified (Cognizant/Dalhousie's ShiftKey Labs)
 - Product designer and UX researcher (3+ years experience)
 
 <br />
@@ -10,7 +10,6 @@ I'm currently working toward my advanced diploma in AI Programming, with a parti
 - 🌊 Ocean technology, research, and monitoring
 - 🔍 Data analytics
 - 🌱 Sustainability and clean technology
-- 💻 Python, R, Java, JavaScript
 
 <br />
 
