@@ -7,7 +7,7 @@
 
 # Updates
 I'm currently working toward my advanced diploma in AI Programming, with a particular interest in:
-- 🌊 Ocean technology, research, and monitoring
+- 🌊 Ocean technology and research
 - 🔍 Data analytics
 - 🌱 Sustainability and clean technology
 
