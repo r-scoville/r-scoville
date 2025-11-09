@@ -13,4 +13,5 @@ I'm currently working toward my graduate certificate in ML/AI programming, with 
 
 ## More Info / Connect
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/r-scoville/)
+- 🤗 Explore my ML models on [Hugging Face](https://huggingface.co/r-scoville)
 - 👩🏻‍💻 Explore my [UX case studies](https://rosescoville.com)
