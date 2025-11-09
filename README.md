@@ -1,18 +1,16 @@
-# About
-- Student in Machine Learning development (Graduate Certificate, 2026)
+## About
+- Student in ML development (Graduate Certificate in AI Programming, 2026)
 - Data Analytics with Python certified (Cognizant/Dalhousie's ShiftKey Labs, 2025)
 - Product designer and UX researcher (4 years experience)
 
-<br />
-
-# Updates
-I'm currently working toward my graduate certificate in AI Programming, with a particular interest in:
+## Updates
+I'm currently working toward my graduate certificate in ML/AI programming, with a particular interest in:
+- 🧠 Deep neural networks
+- 🤖 Reinforcement learning
 - 🌊 Ocean technology and research
 - 🔍 Data analytics
-- 🌱 Sustainability and clean technology
+- 🌱 Sustainability and clean(er) technology
 
-<br />
-
-# More Info / Connect
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/r-scoville/)
+## More Info / Connect
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/r-scoville/)
 - 👩🏻‍💻 Explore my [UX case studies](https://rosescoville.com)
