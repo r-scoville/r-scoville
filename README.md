@@ -1,6 +1,6 @@
 # About
-- Student in Machine Learning development (grad. 2026)
-- Data Analytics with Python certified (Cognizant/Dalhousie's ShiftKey Labs)
+- Student in Machine Learning development (Graduate Certificate, 2026)
+- Data Analytics with Python certified (Cognizant/Dalhousie's ShiftKey Labs, 2025)
 - Product designer and UX researcher (4 years experience)
 
 <br />
