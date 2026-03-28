@@ -1,6 +1,6 @@
 ## About
-- ML development graduate (Postgraduate Certificate in IT Programming for Artificial Intelligence, NSCC, 2026)
-- Data Analytics with Python certified (Dalhousie's ShiftKey Labs, 2025)
+- ML development graduate (2026)
+- Data Analytics with Python certified (2025)
 - Product designer and UX researcher (4 years experience)
 
 ## Interests
